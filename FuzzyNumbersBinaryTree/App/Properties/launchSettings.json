@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "App": {
+      "commandName": "Project",
+      "commandLineArgs": "D:\\Downloads\\Telegram\\fuzzy_numbers.txt"
+    }
+  }
+}
